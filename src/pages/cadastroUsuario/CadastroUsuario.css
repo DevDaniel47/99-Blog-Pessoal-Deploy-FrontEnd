@@ -1,0 +1,16 @@
+.image-cadastrar{
+    background-image: url(https://super.abril.com.br/wp-content/uploads/2018/05/filhotes-de-cachorro-alcanc3a7am-o-c3a1pice-de-fofura-com-8-semanas1.png);
+    background-repeat: no-repeat;
+    width:100vh;
+    min-height:100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.text-cadastrar {
+    font-weight: bold !important;
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+}
